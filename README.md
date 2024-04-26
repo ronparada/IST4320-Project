@@ -19,11 +19,3 @@ This Task Manager is a simple desktop application built with Python and Tkinter.
 
 Before running this application, make sure you have Python installed on your system. You can download Python from the official website:
 https://www.python.org/downloads/
-
-### Installation
-
-1. Clone the repository or download the source code:
-
-```bash
-git clone https://github.com/yourusername/task-manager.git
-cd task-manager
